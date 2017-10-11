@@ -1,2 +1,4 @@
 # aws-examples
-Examples of some useful code for AWS
+Some useful code examples to support the use of AWS
+
+- python
